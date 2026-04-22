@@ -1,11 +1,20 @@
 USE romans_nlp;
 
-INSERT INTO auteurs (nom, prenom) -- insertions des auteurs, on peut aussi ajouter les dates de naissance et de mort pour enrichir la base de données
+
+/*
+Insertion des frères Goncourt
+on peut aussi ajouter les dates de naissance et de mort pour enrichir la base de données.
+*/
+INSERT INTO auteurs (nom, prenom) 
 VALUES
 ('de Goncourt', 'Edmond'), -- reflexion pour ajouter les annees de naissance et de mort des auteurs
 ('de Goncourt', 'Jules');
 
-INSERT INTO romans (titre, annee_publication) -- insertions des romans avec leur année de publication
+/*
+Insertion des romans des frères Goncourt
+avec leur année de publication.
+*/
+INSERT INTO romans (titre, annee_publication) 
 VALUES
 ('Charles Demailly', 1860),
 ('Soeur Philomène', 1861),
@@ -18,7 +27,11 @@ VALUES
 ('La Faustin', 1882),
 ('Chérie', 1884);
 
-INSERT INTO auteurs_romans (id_auteur, id_roman) -- association entre les auteurs et les romans, ici chaque roman est associé à Edmond et Jules de Goncourt
+/*
+association entre les auteurs et les romans, 
+ici chaque roman est associé à Edmond et Jules de Goncourt
+*/
+INSERT INTO auteurs_romans (id_auteur, id_roman) 
 VALUES
 (1,1),(2,1),
 (1,2),(2,2),
