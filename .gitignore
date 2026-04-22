@@ -1,19 +1,7 @@
-# igonorer les fichiers de l'environnement virtuel
-.venv
-venv
-env
-/*env*/
-
-# ignorer les fichiers de cache de Python
+.DS_Store
 __pycache__/
 *.pyc
-*.pyo
-*.pyd   
-# ignorer les fichiers de configuration de l'IDE
-
-.DS_Store
-.idea/
-.vscode/
-# ignorer les fichiers de log
-*.log
-# ignorer les fichiers de test
+.venv/
+venv/
+config.py
+.env
