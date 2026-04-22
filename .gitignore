@@ -9,5 +9,11 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd   
+# ignorer les fichiers de configuration de l'IDE
 
 .DS_Store
+.idea/
+.vscode/
+# ignorer les fichiers de log
+*.log
+# ignorer les fichiers de test
