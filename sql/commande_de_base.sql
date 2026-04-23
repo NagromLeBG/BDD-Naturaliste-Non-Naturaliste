@@ -1,3 +1,5 @@
+USE romans_nlp;
+
 # voir tous les auteurs de la base de données
 SELECT * FROM auteurs;  
 
@@ -7,3 +9,11 @@ FROM auteurs a
 JOIN auteurs_romans ar ON a.id_auteur = ar.id_auteur
 JOIN romans r ON ar.id_roman = r.id_roman
 ORDER BY r.annee_publication, a.prenom;
+
+SELECT * FROM romans;
+
+SELECT texte_segment FROM segments
+WHERE id_roman=2;
+
+SELECT * FROM segments
+WHERE id_roman=4;
