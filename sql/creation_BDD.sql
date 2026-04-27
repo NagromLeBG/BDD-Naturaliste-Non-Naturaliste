@@ -35,6 +35,15 @@ CREATE TABLE segments (
     FOREIGN KEY (id_roman) REFERENCES romans(id_roman)
 );
 
+/*apres reflexion, on peut aussi ajouter les dates de naissance 
+et de mort des auteurs pour enrichir la base de données
+*/
+ALTER TABLE auteurs
+ADD date_naissance int;
+
+ALTER TABLE auteurs
+ADD date_mort int;
+
 -- Table pour stocker les phrases extraites des romans, avec leur motif d'extraction
 CREATE TABLE phrase_roman (
 id_phrase INT PRIMARY KEY AUTO_INCREMENT,
