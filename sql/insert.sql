@@ -43,3 +43,21 @@ VALUES
 (1,8),
 (1,9),
 (1,10);
+
+/*apres reflexion, on peut aussi ajouter les dates de naissance 
+et de mort des auteurs pour enrichir la base de données
+*/
+ALTER TABLE auteurs
+ADD date_naissance int;
+
+ALTER TABLE auteurs
+ADD date_mort int;
+
+#mise à jour des dates de naissance et de mort pour les frères Goncourt
+UPDATE auteurs
+SET date_naissance = 1830,
+    date_mort = 1870
+WHERE id_auteur = 2;
+
+INSERT INTO auteurs (nom, prenom, date_naissance, date_mort)
+VALUES ('Daudet', 'Alphonse', 1840, 1897);
