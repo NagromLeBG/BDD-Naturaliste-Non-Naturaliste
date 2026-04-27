@@ -1,6 +1,6 @@
-
+---ajout d'Emile Zola dans la table "auteurs"
 INSERT INTO auteurs (nom, prenom, date_naissance, date_mort)
-VALUES ('Zola', 'Émile', , 1897);
+VALUES ('Zola', 'Émile', 1840, 1902);
 
 --ajout de romans d'Emile Zola dans la table "romans"
 INSERT INTO romans (titre, annee_publication) 

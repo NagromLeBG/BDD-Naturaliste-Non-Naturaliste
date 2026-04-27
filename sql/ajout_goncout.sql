@@ -44,4 +44,9 @@ VALUES
 UPDATE auteurs
 SET date_naissance = 1830,
     date_mort = 1870
-WHERE id_auteur = 2;
+WHERE id_auteur = 2
+
+UPDATE auteurs
+SET date_naissance = 1822,
+    date_mort = 1896
+WHERE id_auteur = 1;
