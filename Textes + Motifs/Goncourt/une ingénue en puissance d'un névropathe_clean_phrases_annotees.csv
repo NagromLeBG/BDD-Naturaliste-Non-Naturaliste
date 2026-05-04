@@ -1,0 +1,125 @@
+id,titre,phrase,motifs_phrase
+1,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,UNE INGÉNUE EN PUISSANCE D' UN NÉVROPATHE HISTOIRE D' AUJOURD' HUI Il n' y a plus qu' un Grand Turc en Europe : c' est le public .,NP NP NP NP NP NP NP NP NP NP NP il ne y avoir plus que un ADJ NP en NP : ce être le NC .
+2,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,Il n' y a plus que le public qui ait un sérail .,il ne y avoir plus que le NC qui avoir un NC .
+3,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"Le sérail de le public est un sérail idéal , je me hâte de le dire ; mais quel sérail , que ce sérail idéal !","le NCs de le NCmod être un NC ADJ , je me PRES de le VDIC ; mais quel NC , que ce NCmod ADJ !"
+4,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"Toutes les femmes de Corneille , de Molière , de Racine , de Shakespeare , de Victor Hugo , d' Alfred de Musset , de M. Scribe et de M. Siraudin !","tout le NC de NP , de NP , de NP , de NP , de NP NP , de NP de NP , de monsieur NP et de monsieur NP !"
+5,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"celles-ci qui viennent de la Circassie de la tragédie , celles -là arrachées toutes jeunes à le sein de la comédie ; de les femmes en prose et de les femmes en vers ; de les brunes , de les blondes , et tous les talents d' agrément qu' on peut désirer !","celui-ci qui venir de le NP de le NCmod , celui ADVLIEU PPAS tout NCo à le NC de le NCmod ; de le NCmod en NCmod et de le NC en NCmod ; de le NC , de le NC , et tout le NC de NCSENT que on pouvoir VSENT !"
+6,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,Il y a de les danseuses de corde et de les saltatrices gaditanes !,il y avoir de le NC de NCmod et de le NC ADJ !
+7,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"Il y a de les déclamatrices , il y a de les grandes coquettes !","il y avoir de le NC , il y avoir de le ADJ NC !"
+8,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"Il y en a qui arrachent les larmes , sans douleur !","il y en avoir qui PRES le NCo , sans NCSENT !"
+9,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,Et d' autres à qui M. Samson a appris le grand art de sourire naturellement !,et de autre à qui monsieur NP avoir VCOG le ADJ NCo de INF ADVINT !
+10,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,Et d' autres qui pincent le couplet cascaret !,et de autre qui PRES le NCo ADJ !
+11,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"Et d' autres qui semblent ouvrir une cage quand elles ouvrent la bouche , et lâcher de les rossignols dans le lustre !","et de autre qui sembler INF un NCo quand il PRES le NCCOR , et INF de le NCmod dans le NCmod !"
+12,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,Il y a de les jolies femmes !,il y avoir de le ADJ NC !
+13,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,Mais ce n' est encore rien ; il y a même de les ingénues !,mais ce ne être encore rien ; il y avoir même de le NC !
+14,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"Quand une de les sultanes de le Grand Turc lui était infidèle , le Grand Turc la priait de se coudre dans un sac et de se jeter dans le Bosphore : le Grand Turc se vengeait lui-même .","quand un de le NCmod de le ADJ NP lui être ADJ , le ADJ NP le VIMP de se INF dans un NC et de se INF dans le NP : le ADJ NP se VIMP soi-même ."
+15,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"Quand une de les favorites de le public le trompe devant monsieur le maire , quand une actrice se marie , c' est Dieu qui nous venge !","quand un de le NCmod de le NCmod le NC ADVLIEU monsieur le NC , quand un NCs se PRES , ce être NP qui nous PRES !"
+16,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"La scène représente une salle à manger d' un château Louis XIII , comme dans les romans de George Sand .","le NCs PRES un NCo à INF de un NC NP NUM , comme dans le NC de NP NP ."
+17,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,Un jeune homme et une jeune femme sont à table .,un ADJ NCs et un ADJ NC être à NC .
+18,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,La jeune femme semble une charmante jeune fille .,le ADJ NCs sembler un ADJ ADJ NCo .
+19,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"Le jeune homme a la face cyanosée , de fortes pattes d' oie , deux grands plis à les coins de la bouche .","le ADJ NCs avoir le NCo ADJ , un fort NC de NCmod , NUM ADJ NC à le NCmod de le NCCOR ."
+20,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"La jeune femme se verse de l' eau , et ne remet pas le bouchon sur la carafe .","le ADJ NCs se PRES de le NC , et ne PRES pas le NCo sur le NC ."
+21,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,LE JEUNE HOMME .,le NP NP .
+22,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,Rosalba !,NP !
+23,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,Le bouchon !,le NC !
+24,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"LA JEUNE FEMME , doucement .","NP NP NP , ADVMAN ."
+25,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"Quoi , mon ami ?","quoi , DETPOSS NC ?"
+26,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,LE JEUNE HOMME .,le NP NP .
+27,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,Le bouchon !,le NC !
+28,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"LA JEUNE FEMME , doucement .","NP NP NP , ADVMAN ."
+29,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,Ah !,INTJ !
+30,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"le bouchon … Ne vous irritez pas … Le voilà , mon ami .","le NC … ne vous VSENT pas … le voilà , DETPOSS NC ."
+31,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,( Elle le remet .,( il le PRES .
+32,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,) Un silence .,) un NC .
+33,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,Jeu de les mâchoires de le jeune homme .,NC de le NCCOR de le ADJ NCmod .
+34,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,La jeune femme se reverse de l' eau et oublie de remettre le bouchon .,le ADJ NCs se PRES de le NC et VCOG de INF le NCo .
+35,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,LE JEUNE HOMME .,le NP NP .
+36,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"Le bouchon , Rosalba !","le NC , NP !"
+37,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,Les bouchons sont faits pour boucher les carafes !,le NCs être faire pour NC le NCo !
+38,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"LA JEUNE FEMME , doucement .","NP NP NP , ADVMAN ."
+39,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,Oh !,INTJ !
+40,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"que je suis étourdie … j' avais oublié … LE JEUNE HOMME , exaspéré .","que je être PPAS … je avoir VCOG … le NP NP , VSENT ."
+41,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,Le bouchon!… le bouchon !,le NP le NC !
+42,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,Tout de suite !,tout de NC !
+43,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"Ne savez -vous pas que je suis névropathe , névropathe … pathe !","ne VCOG vous pas que je être névropathe , névropathe … NC !"
+44,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,Et il manque de tomber dans une attaque de nerfs .,et il PRES de INF dans un NC de NCCOR .
+45,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"La scène représente une vieille charmille , comme dans les romans d' Octave Feuillet .","le NCs PRES un ADJ NCo , comme dans le NC de NP NP ."
+46,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,La jeune femme est couchée dans un hamac .,le ADJ NCspas être PPAS dans un NC .
+47,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,Le jeune homme est assis sur un banc .,le ADJ NCspas être PPAS sur un NC .
+48,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,Un autre jeune homme raconte la dernière heure d' un poitrinaire et la nécropsie d' un phtisique .,un autre ADJ NCs PRES le ADJ NCT de un NCmod et le NC de un NCmod .
+49,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,LE JEUNE HOMME .,le NP NP .
+50,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"Qu' est -ce que cela sent ici , mon Dieu ?","que être ce que cela sentir ADVLIEU , son NP ?"
+51,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"LA JEUNE FEMME , doucement .","NP NP NP , ADVMAN ."
+52,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"Mais cela ne sent rien , mon ami .","mais cela ne sentir rien , DETPOSS NC ."
+53,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,LE JEUNE HOMME .,le NP NP .
+54,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,Vous avez fait vœu de me faire mourir avec vos odeurs !,vous avoir faire NCo de me faire INF avec DETPOSS NC !
+55,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"LA JEUNE FEMME , doucement .","NP NP NP , ADVMAN ."
+56,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"Mais , mon ami , vous savez que je ne me sers absolument que d' iris pour mon linge , depuis que … LE JEUNE HOMME .","mais , DETPOSS NC , vous VCOG que je ne me ADJ ADVINT que de NC pour DETPOSS NCmod , depuis que … le NP NP ."
+57,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"Mais , mon Dieu !","mais , son NP !"
+58,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,Qu' est -ce que cela sent donc ?,que être ce que cela sentir donc ?
+59,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,… Ah !,… INTJ !
+60,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"le jasmin , le jasmin !","le NC , le NC !"
+61,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,… Donnez -moi votre tête !,… IMP soi DETPOSS NCCOR !
+62,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"LA JEUNE FEMME , doucement .","NP NP NP , ADVMAN ."
+63,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,Mais … LE JEUNE HOMME .,mais … le NP NP .
+64,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"Donnez -moi votre tête !… le jasmin , madame , le jasmin !","IMP soi DETPOSS NCCOR !… le NC , madame , le NC !"
+65,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"LA JEUNE FEMME , doucement .","NP NP NP , ADVMAN ."
+66,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"Mais , mon ami , je ne puis cependant pas ne pas mettre de pommade … LE JEUNE HOMME , exaspéré .","mais , DETPOSS NC , je ne puis cependant pas ne pas mettre un NCo … le NP NP , VSENT ."
+67,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,Ne savez -vous pas que je suis névropathe ?,ne VCOG vous pas que je être ADJ ?
+68,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,Mais névropathe !,mais névropathe !
+69,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"… Ne suis -je pas assez névropathe , dites , docteur ?","… ne être je pas ADV ADJ , VDIC , NC ?"
+70,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,Et il manque de tomber dans une attaque de nerfs .,et il PRES de INF dans un NC de NCCOR .
+71,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"La scène représente un omnibus , comme dans les romans d' Henri Monnier .","le NCs PRES un NCo , comme dans le NC de NP NP ."
+72,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,C' est l' omnibus qui transporte de la ville de Troyes à les eaux de Saint-Sauveur les malades anémiques .,ce être le NC qui PRES de le NC de NP à le NCmod de NP le NCo ADJ .
+73,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,Il y a d' affreux enfants soufflés et gonflés comme de les ballons .,il y avoir un ADJ NC ADJ et ADJ comme de le NCmod .
+74,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"La femme qui est en face Rosalba est une petite femme toute ratatinée , blanche comme la cire , les yeux vitreux , avec deux petites dents qui mordent par-dessus la lèvre , la tête d' une momie qu' on démaillotte .","le NCs qui être en NC NP être un ADJ NC tout ADJ , ADJCOL comme le INF , le NCCOR ADJ , avec NUM ADJ NCCOR qui PRES ADV le NCCOR , le NCCOR de un NCmod que on VSUBP ."
+75,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,LE JEUNE HOMME .,le NP NP .
+76,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"Rosalba , vous avez un regard en dessous .","NP , vous avoir un NCMAN en NCmod ."
+77,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,Pourquoi regardez -vous en dessous ?,pourquoi VCOG lui en ADV ?
+78,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"LA JEUNE FEMME , doucement .","NP NP NP , ADVMAN ."
+79,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"Mon ami , la vue de cette femme me fait mal … cela me fait vraiment mal !","DETPOSS NC , le NCs de ce NCmod me faire mal … cela me faire ADVINT mal !"
+80,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,LE JEUNE HOMME .,le NP NP .
+81,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,C' est me dire que je vous répugne .,ce être me VDIC que je vous VSUBP .
+82,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"LA JEUNE FEMME , doucement .","NP NP NP , ADVMAN ."
+83,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,Oh !,INTJ !
+84,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,mon ami!… Dieu merci !,DETPOSS NP NP INTJ !
+85,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,jamais vous ne serez comme cela .,ADVTEMPS vous ne être comme cela .
+86,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,LE JEUNE HOMME .,le NP NP .
+87,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,C' est me dire que je n' en suis pas encore là !,ce être me VDIC que je ne en être pas encore ADVLIEU !
+88,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"LA JEUNE FEMME , doucement .","NP NP NP , ADVMAN ."
+89,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"Calmez-vous , je vous en prie … pour nous-mêmes … On nous regarde .","calmez-vous , je vous en PRES … pour nous-mêmes … on nous VCOG ."
+90,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"LE JEUNE HOMME , exaspéré .","le NP NP , VSENT ."
+91,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,Qu' est -ce que cela me fait ?,que être ce que cela me faire ?
+92,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"… Vous oubliez , malheureuse !","… vous VCOG , NCo !"
+93,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,que je suis névropathe … pathe !,que je être ADJ … NC !
+94,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,… Et il manque de tomber dans une attaque de nerfs .,… et il PRES de INF dans un NC de NCCOR .
+95,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"La scène représente un kiosque , une source , et un vieil homme qui remplit de les verres , comme dans les romans ferrugineux .","le NCs PRES un NCo , un NC , et un ADJ NC qui PRES de le NC , comme dans le NC ADJ ."
+96,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,LE JEUNE HOMME .,le NP NP .
+97,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,Rosalba !,NP !
+98,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"eh bien , vous ne buvez pas ?","INTJ bien , vous ne PRES pas ?"
+99,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"LA JEUNE FEMME , doucement .","NP NP NP , ADVMAN ."
+100,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"Mais pourquoi , mon ami ?","mais pourquoi , DETPOSS NC ?"
+101,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,je n' ai pas besoin … Je vais bien .,je ne avoir pas NCo … je aller bien .
+102,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,LE JEUNE HOMME .,le NP NP .
+103,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,Ah !,INTJ !
+104,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"vous allez bien , et je vais mal , n' est -ce pas ?","vous aller bien , et je aller mal , ne être ce pas ?"
+105,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"LA JEUNE FEMME , doucement .","NP NP NP , ADVMAN ."
+106,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,Oh !,INTJ !
+107,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,mon Dieu !,DETPOSS NP !
+108,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,LE JEUNE HOMME .,le NP NP .
+109,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"Pas si mal que cela !… pas si mal , entendez-vous ?","pas si mal que cela !… pas si mal , entendez-le ?"
+110,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,LA JEUNE FEMME .,NP NP NP .
+111,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"Vraiment , il faudrait être une sainte … LE JEUNE HOMME , exaspéré .","ADVINT , il VCOND être un NC … le NP NP , VSENT ."
+112,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,Une sainte !,un NC !
+113,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,une sainte !,un NC !
+114,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"Soyez donc névropathe … , névropathe … , pathe … , pathe !","être donc ADJ … , névropathe … , pathe … , NC !"
+115,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,Il tombe dans une attaque de nerfs .,il PRES dans un NC de NCCOR .
+116,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"Et voilà comment Dieu venge le public , et comment il punit une ingénue infidèle à le célibat , une ingénue qui manque à ses devoirs de garçon : par le mari et la névropathie .","et voilà comment NP PRES le NCo , et comment il PRES un NCo ADJ à le NC , un NC qui PRES à DETPOSS devoir de NCmod : par le NC et le NC ."
+117,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,MOLLANDEUX .,Mollandeux .
+118,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"Il est drôle , n' est -ce pas , l' article ?","il être ADJ , ne être ce pas , le NC ?"
+119,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,dit Marthe .,VDIC NP .
+120,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"Je te fais donc bien souffrir , Marthe ?","je me faire donc bien VSENT , NP ?"
+121,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,dit Charles .,VDIC NP .
+122,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"Mais ce n' est pas moi … Je n' ai rien dit , je t' assure … Mollandeux a fait tout ça de chic … Il n' y a que pour le docteur … Ah !","mais ce ne être pas soi … je ne avoir rien VDIC , je lui PRES … Mollandeux avoir faire tout ça de NCmod … il ne y avoir que pour le NC … INTJ !"
+123,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,"le docteur , je ne dis pas … je suis pour quelque chose dans le docteur … mais pour toi je te jure bien … j' ai dit que tu étais un peu … un peu nerveux … mais voilà tout , bien vrai … L' article de Mollandeux avait un ton trop bouffon pour blesser Charles .","le NC , je ne VDIC pas … je être pour quelque chose dans le NC … mais pour soi je me PRES bien … je avoir VDIC que je être un peu … un peu ADJ … mais voilà tout , bien vrai … le NCs de NP avoir un NCo trop ADJ pour VSENT NP ."
+124,Goncourt/une ingénue en puissance d'un névropathe_clean.txt,Mais Charles devina à les dénégations de Marthe d' où il venait; et ce fut là sa blessure .,mais NP VCOG à le NC de NP de où il venait; et ce être ADVLIEU DETPOSS NCSENT .
