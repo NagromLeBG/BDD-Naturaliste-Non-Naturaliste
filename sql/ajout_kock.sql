@@ -13,3 +13,8 @@ VALUES
 --association Paul de Kock et ses romans
 INSERT INTO auteurs_romans (id_auteur, id_roman) 
 VALUES
+(6, 71),
+(6, 72),
+(6, 73),
+(6, 74);
+
